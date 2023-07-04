@@ -10,7 +10,7 @@ http:
       type: response
       require-body: true
       timeout: 10
-      argument: appid=填你的APPID&securityKey=填你的key
+      argument: appid=20230620001717893&securityKey=w2TdP8IVNnm2gpNDNmSc
       binary-mode: true
       max-size: 0
  
