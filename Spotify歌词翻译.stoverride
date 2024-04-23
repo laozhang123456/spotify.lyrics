@@ -10,7 +10,7 @@ http:
       type: response
       require-body: true
       timeout: 10
-      argument: appid=20230620001717893&securityKey=w2TdP8IVNnm2gpNDNmSc
+      argument: appid=20240423002033063&securityKey=mEPnF2AJ9Ca4ujWKNujn
       binary-mode: true
       max-size: 0
  
